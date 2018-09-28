@@ -1,3 +1,0 @@
-﻿ターミナルでのgit操作
-基本操作　add　commit　push
-commitについて
